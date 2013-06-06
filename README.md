@@ -1,4 +1,4 @@
-software-testing-and-quality-assurance
+Software Testing and Quality Assurance
 ======================================
 
 Performed JUnit testing, fault localization, and redesign for four company's code.
