@@ -1,0 +1,12 @@
+<gpx>
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2009-10-17T22:58:43Z</time>
+  </metadata>
+  <trk>
+    <name>Walking up a hill. Straight up!</name>
+    <trkseg>      
+    </trkseg>  
+</gpx>

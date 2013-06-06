@@ -1,0 +1,3131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="5" hostname="lenovo-PC" id="0" name="GPXConverttimeTest" package="" tests="7" time="0.25" timestamp="2011-10-09T01:43:13">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXConverttimeTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXConverttimeTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher3578547279002988142.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit3026116115316204817.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXConverttimeTest" name="testconvertToJavaTime1" time="0.031">
+          <failure message="expected:&lt;86400000&gt; but was:&lt;-3319534592&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;86400000&gt; but was:&lt;-3319534592&gt;
+	at GPXConverttimeTest.testconvertToJavaTime1(GPXConverttimeTest.java:29)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXConverttimeTest" name="testconvertToJavaTime2" time="0.0">
+          <failure message="expected:&lt;205119488&gt; but was:&lt;-3200815104&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;205119488&gt; but was:&lt;-3200815104&gt;
+	at GPXConverttimeTest.testconvertToJavaTime2(GPXConverttimeTest.java:40)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXConverttimeTest" name="testconvertToJavaTime3" time="0.0">
+          <failure message="expected:&lt;205119488&gt; but was:&lt;-1613939712&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;205119488&gt; but was:&lt;-1613939712&gt;
+	at GPXConverttimeTest.testconvertToJavaTime3(GPXConverttimeTest.java:49)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXConverttimeTest" name="testconvertToJavaTime4" time="0.0">
+          <failure message="expected:&lt;0&gt; but was:&lt;-3405934592&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;0&gt; but was:&lt;-3405934592&gt;
+	at GPXConverttimeTest.testconvertToJavaTime4(GPXConverttimeTest.java:58)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXConverttimeTest" name="testconvertToJavaTime5" time="0.0" />
+
+      <testcase classname="GPXConverttimeTest" name="testconvertToJavaTime6" time="0.0">
+          <failure message="expected:&lt;0&gt; but was:&lt;-6898269184&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;0&gt; but was:&lt;-6898269184&gt;
+	at GPXConverttimeTest.testconvertToJavaTime6(GPXConverttimeTest.java:79)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXConverttimeTest" name="testconvertToJavaTime7" time="0.0" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="lenovo-PC" id="1" name="GPXCreatetimeTest" package="" tests="15" time="0.156" timestamp="2011-10-09T01:43:14">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXCreatetimeTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXCreatetimeTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher3951893283976170142.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit8785025343766770500.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime1" time="0.016" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime2" time="0.015" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime3" time="0.0">
+          <failure message="expected:&lt;null&gt; but was:&lt;2011-2-30T1:1:1Z&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;null&gt; but was:&lt;2011-2-30T1:1:1Z&gt;
+	at GPXCreatetimeTest.testCreateGPXtime3(GPXCreatetimeTest.java:47)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime4" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime5" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime6" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime7" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime8" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime9" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime10" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime11" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime12" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime13" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime14" time="0.0" />
+
+      <testcase classname="GPXCreatetimeTest" name="testCreateGPXtime15" time="0.0" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[java.lang.NumberFormatException: For input string: "#$@%"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at GPXtime.createGPXtime(GPXtime.java:50)
+	at GPXCreatetimeTest.testCreateGPXtime2(GPXCreatetimeTest.java:38)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.NullPointerException
+	at GPXtime.createGPXtime(GPXtime.java:50)
+	at GPXCreatetimeTest.testCreateGPXtime15(GPXCreatetimeTest.java:129)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="1" failures="2" hostname="lenovo-PC" id="2" name="GPXcalculatorAverageSpeedTest" package="" tests="5" time="0.141" timestamp="2011-10-09T01:43:15">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXcalculatorAverageSpeedTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXcalculatorAverageSpeedTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher6506549574051396993.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit964640591083762856.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXcalculatorAverageSpeedTest" name="testCalculateAverageSpeed" time="0.016" />
+
+      <testcase classname="GPXcalculatorAverageSpeedTest" name="testAverage1" time="0.015">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXcalculator.calculateDistanceTraveled(GPXcalculator.java:121)
+	at GPXcalculator.calculateAverageSpeed(GPXcalculator.java:146)
+	at GPXcalculatorAverageSpeedTest.testAverage1(GPXcalculatorAverageSpeedTest.java:47)
+</error>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorAverageSpeedTest" name="testAverage2" time="0.0">
+          <failure message="expected:&lt;0.0&gt; but was:&lt;NaN&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;0.0&gt; but was:&lt;NaN&gt;
+	at GPXcalculatorAverageSpeedTest.testAverage2(GPXcalculatorAverageSpeedTest.java:67)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorAverageSpeedTest" name="testAverage3" time="0.0" />
+
+      <testcase classname="GPXcalculatorAverageSpeedTest" name="testAverage4" time="0.0">
+          <failure message="expected:&lt;2.0&gt; but was:&lt;-2.167908756752936&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;2.0&gt; but was:&lt;-2.167908756752936&gt;
+	at GPXcalculatorAverageSpeedTest.testAverage4(GPXcalculatorAverageSpeedTest.java:116)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="1" failures="1" hostname="lenovo-PC" id="3" name="GPXcalculatorBearingTest" package="" tests="3" time="0.124" timestamp="2011-10-09T01:43:17">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXcalculatorBearingTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXcalculatorBearingTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher1067353806859574619.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit2839426750987175108.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXcalculatorBearingTest" name="testBearing0" time="0.016">
+          <failure message="expected:&lt;104.617&gt; but was:&lt;-133.74294564224584&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;104.617&gt; but was:&lt;-133.74294564224584&gt;
+	at GPXcalculatorBearingTest.testBearing0(GPXcalculatorBearingTest.java:36)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorBearingTest" name="testBearing1" time="0.0">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXcalculator.calculateBearing(GPXcalculator.java:165)
+	at GPXcalculatorBearingTest.testBearing1(GPXcalculatorBearingTest.java:47)
+</error>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorBearingTest" name="testBearing2" time="0.0010" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="1" failures="0" hostname="lenovo-PC" id="4" name="GPXcalculatorDistanceTraveledSegTest" package="" tests="4" time="0.114" timestamp="2011-10-09T01:43:18">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXcalculatorDistanceTraveledSegTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXcalculatorDistanceTraveledSegTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher6385810641460310299.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit4406193175978369350.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXcalculatorDistanceTraveledSegTest" name="testDistance0" time="0.012" />
+
+      <testcase classname="GPXcalculatorDistanceTraveledSegTest" name="testDistance1" time="0.0040">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXcalculator.calculateDistanceTraveled(GPXcalculator.java:76)
+	at GPXcalculatorDistanceTraveledSegTest.testDistance1(GPXcalculatorDistanceTraveledSegTest.java:37)
+</error>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorDistanceTraveledSegTest" name="testDistance2" time="0.0" />
+
+      <testcase classname="GPXcalculatorDistanceTraveledSegTest" name="testDistance3" time="0.0" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="1" failures="0" hostname="lenovo-PC" id="5" name="GPXcalculatorDistanceTraveledTrkTest" package="" tests="4" time="0.141" timestamp="2011-10-09T01:43:19">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXcalculatorDistanceTraveledTrkTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXcalculatorDistanceTraveledTrkTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher1547686501120796658.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit6716810813956910844.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXcalculatorDistanceTraveledTrkTest" name="testDistance0" time="0.016" />
+
+      <testcase classname="GPXcalculatorDistanceTraveledTrkTest" name="testDistance1" time="0.0">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXcalculator.calculateDistanceTraveled(GPXcalculator.java:121)
+	at GPXcalculatorDistanceTraveledTrkTest.testDistance1(GPXcalculatorDistanceTraveledTrkTest.java:47)
+</error>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorDistanceTraveledTrkTest" name="testDistance2" time="0.0" />
+
+      <testcase classname="GPXcalculatorDistanceTraveledTrkTest" name="testDistance3" time="0.0" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="1" failures="3" hostname="lenovo-PC" id="6" name="GPXcalculatorElapsedTimeSegTest" package="" tests="6" time="0.141" timestamp="2011-10-09T01:43:20">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXcalculatorElapsedTimeSegTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXcalculatorElapsedTimeSegTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher1207199139834990169.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit4842715700293122442.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXcalculatorElapsedTimeSegTest" name="testElapsedTime0" time="0.0" />
+
+      <testcase classname="GPXcalculatorElapsedTimeSegTest" name="testElapsedTime1" time="0.0">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXcalculator.calculateElapsedTime(GPXcalculator.java:45)
+	at GPXcalculatorElapsedTimeSegTest.testElapsedTime1(GPXcalculatorElapsedTimeSegTest.java:42)
+</error>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorElapsedTimeSegTest" name="testElapsedTime2" time="0.0">
+          <failure message="expected:&lt;-1&gt; but was:&lt;-6000&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;-1&gt; but was:&lt;-6000&gt;
+	at GPXcalculatorElapsedTimeSegTest.testElapsedTime2(GPXcalculatorElapsedTimeSegTest.java:61)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorElapsedTimeSegTest" name="testElapsedTime3" time="0.0">
+          <failure message="expected:&lt;-1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;-1&gt; but was:&lt;0&gt;
+	at GPXcalculatorElapsedTimeSegTest.testElapsedTime3(GPXcalculatorElapsedTimeSegTest.java:88)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorElapsedTimeSegTest" name="testElapsedTime4" time="0.0">
+          <failure message="expected:&lt;1471228928&gt; but was:&lt;-2823738368&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;1471228928&gt; but was:&lt;-2823738368&gt;
+	at GPXcalculatorElapsedTimeSegTest.testElapsedTime4(GPXcalculatorElapsedTimeSegTest.java:107)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorElapsedTimeSegTest" name="testElapsedTime5" time="0.0" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="2" hostname="lenovo-PC" id="7" name="GPXcalculatorElapsedTimeTrkTest" package="" tests="4" time="0.109" timestamp="2011-10-09T01:43:21">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXcalculatorElapsedTimeTrkTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXcalculatorElapsedTimeTrkTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher3934116741617043559.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit8317091303302656408.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXcalculatorElapsedTimeTrkTest" name="testElapsedTime0" time="0.016" />
+
+      <testcase classname="GPXcalculatorElapsedTimeTrkTest" name="testElapsedTime1" time="0.0" />
+
+      <testcase classname="GPXcalculatorElapsedTimeTrkTest" name="testElapsedTime2" time="0.015">
+          <failure message="expected:&lt;-1&gt; but was:&lt;-172784000&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;-1&gt; but was:&lt;-172784000&gt;
+	at GPXcalculatorElapsedTimeTrkTest.testElapsedTime2(GPXcalculatorElapsedTimeTrkTest.java:80)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcalculatorElapsedTimeTrkTest" name="testElapsedTime3" time="0.0">
+          <failure message="expected:&lt;-1352509440&gt; but was:&lt;-5647476736&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;-1352509440&gt; but was:&lt;-5647476736&gt;
+	at GPXcalculatorElapsedTimeTrkTest.testElapsedTime3(GPXcalculatorElapsedTimeTrkTest.java:105)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="1" failures="0" hostname="lenovo-PC" id="8" name="GPXcalculatorFastestSegmentTest" package="" tests="2" time="0.11" timestamp="2011-10-09T01:43:22">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXcalculatorFastestSegmentTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXcalculatorFastestSegmentTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher5343409382885572020.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit5689270241937620713.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXcalculatorFastestSegmentTest" name="testFastest0" time="0.016" />
+
+      <testcase classname="GPXcalculatorFastestSegmentTest" name="testFastest1" time="0.016">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXcalculator.calculateFastestSegment(GPXcalculator.java:194)
+	at GPXcalculatorFastestSegmentTest.testFastest1(GPXcalculatorFastestSegmentTest.java:56)
+</error>
+
+      </testcase>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="4" hostname="lenovo-PC" id="9" name="GPXcheckerTest" package="" tests="26" time="0.25" timestamp="2011-10-09T01:43:23">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXcheckerTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXcheckerTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher8497724540606463074.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit7347135914039605377.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker1" time="0.015" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker2" time="0.047">
+          <failure message="expected:&lt;true&gt; but was:&lt;false&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;true&gt; but was:&lt;false&gt;
+	at GPXcheckerTest.testGPXchecker2(GPXcheckerTest.java:54)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker3" time="0.0">
+          <failure message="expected:&lt;false&gt; but was:&lt;true&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;false&gt; but was:&lt;true&gt;
+	at GPXcheckerTest.testGPXchecker3(GPXcheckerTest.java:61)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker4" time="0.016">
+          <failure message="expected:&lt;false&gt; but was:&lt;true&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;false&gt; but was:&lt;true&gt;
+	at GPXcheckerTest.testGPXchecker4(GPXcheckerTest.java:68)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker5" time="0.0">
+          <failure message="expected:&lt;false&gt; but was:&lt;true&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;false&gt; but was:&lt;true&gt;
+	at GPXcheckerTest.testGPXchecker5(GPXcheckerTest.java:75)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker6" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker7" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker8" time="0.015" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker9" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker10" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker11" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker12" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker13" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker14" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker15" time="0.016" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker16" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker17" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker18" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker19" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker20" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker21" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker22" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker23" time="0.016" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker24" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker25" time="0.0" />
+
+      <testcase classname="GPXcheckerTest" name="testGPXchecker26" time="0.0" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[java.lang.Exception: Format error! Expected </trk> tag
+	at GPXchecker.checkFormat(GPXchecker.java:128)
+	at GPXcheckerTest.testGPXchecker2(GPXcheckerTest.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at GPXchecker.checkFormat(GPXchecker.java:63)
+	at GPXcheckerTest.testGPXchecker6(GPXcheckerTest.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(Unknown Source)
+	at java.lang.String.substring(Unknown Source)
+	at GPXchecker.checkFormat(GPXchecker.java:52)
+	at GPXcheckerTest.testGPXchecker7(GPXcheckerTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected <gpx> tag
+	at GPXchecker.checkFormat(GPXchecker.java:63)
+	at GPXcheckerTest.testGPXchecker8(GPXcheckerTest.java:92)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected <link> tag
+	at GPXchecker.checkFormat(GPXchecker.java:69)
+	at GPXcheckerTest.testGPXchecker9(GPXcheckerTest.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected <text> tag
+	at GPXchecker.checkFormat(GPXchecker.java:71)
+	at GPXcheckerTest.testGPXchecker10(GPXcheckerTest.java:104)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </text> tag
+	at GPXchecker.checkFormat(GPXchecker.java:73)
+	at GPXcheckerTest.testGPXchecker11(GPXcheckerTest.java:110)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </link> tag
+	at GPXchecker.checkFormat(GPXchecker.java:75)
+	at GPXcheckerTest.testGPXchecker12(GPXcheckerTest.java:116)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected <time> tag
+	at GPXchecker.checkFormat(GPXchecker.java:77)
+	at GPXcheckerTest.testGPXchecker13(GPXcheckerTest.java:122)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected <text> tag
+	at GPXchecker.checkFormat(GPXchecker.java:79)
+	at GPXcheckerTest.testGPXchecker14(GPXcheckerTest.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </metadata> tag
+	at GPXchecker.checkFormat(GPXchecker.java:81)
+	at GPXcheckerTest.testGPXchecker15(GPXcheckerTest.java:134)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected <trk> tag
+	at GPXchecker.checkFormat(GPXchecker.java:85)
+	at GPXcheckerTest.testGPXchecker16(GPXcheckerTest.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </name> tag
+	at GPXchecker.checkFormat(GPXchecker.java:91)
+	at GPXcheckerTest.testGPXchecker17(GPXcheckerTest.java:146)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </trk> tag
+	at GPXchecker.checkFormat(GPXchecker.java:128)
+	at GPXcheckerTest.testGPXchecker18(GPXcheckerTest.java:151)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </trkseg> tag
+	at GPXchecker.checkFormat(GPXchecker.java:121)
+	at GPXcheckerTest.testGPXchecker19(GPXcheckerTest.java:157)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected <ele> tag
+	at GPXchecker.checkFormat(GPXchecker.java:102)
+	at GPXcheckerTest.testGPXchecker20(GPXcheckerTest.java:163)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </ele> tag
+	at GPXchecker.checkFormat(GPXchecker.java:105)
+	at GPXcheckerTest.testGPXchecker21(GPXcheckerTest.java:169)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected <time> tag
+	at GPXchecker.checkFormat(GPXchecker.java:108)
+	at GPXcheckerTest.testGPXchecker22(GPXcheckerTest.java:175)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </time> tag
+	at GPXchecker.checkFormat(GPXchecker.java:111)
+	at GPXcheckerTest.testGPXchecker23(GPXcheckerTest.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </trkpt> tag
+	at GPXchecker.checkFormat(GPXchecker.java:114)
+	at GPXcheckerTest.testGPXchecker24(GPXcheckerTest.java:187)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </trk> tag
+	at GPXchecker.checkFormat(GPXchecker.java:128)
+	at GPXcheckerTest.testGPXchecker25(GPXcheckerTest.java:193)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </gpx> tag
+	at GPXchecker.checkFormat(GPXchecker.java:131)
+	at GPXcheckerTest.testGPXchecker26(GPXcheckerTest.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="5" hostname="lenovo-PC" id="10" name="GPXobjectTest" package="" tests="7" time="0.125" timestamp="2011-10-09T01:43:24">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXobjectTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXobjectTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher2495735531907992508.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit6051405808048833792.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXobjectTest" name="testGPXobject1" time="0.0" />
+
+      <testcase classname="GPXobjectTest" name="testGPXobject2" time="0.0" />
+
+      <testcase classname="GPXobjectTest" name="testGPXobject3" time="0.0">
+          <failure message="expected:&lt;1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;
+	at GPXobjectTest.testGPXobject3(GPXobjectTest.java:143)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXobjectTest" name="testGPXobject4" time="0.0">
+          <failure message="expected:&lt;1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;
+	at GPXobjectTest.testGPXobject4(GPXobjectTest.java:183)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXobjectTest" name="testGPXobject5" time="0.0">
+          <failure message="expected:&lt;1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;
+	at GPXobjectTest.testGPXobject5(GPXobjectTest.java:216)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXobjectTest" name="testGPXobject6" time="0.0">
+          <failure message="expected:&lt;1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;
+	at GPXobjectTest.testGPXobject6(GPXobjectTest.java:254)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXobjectTest" name="testGPXobject7" time="0.0">
+          <failure message="expected:&lt;1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;
+	at GPXobjectTest.testGPXobject7(GPXobjectTest.java:283)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[<gpx>
+	<metadata>
+		<link href=http://www.garmin.com>
+			<text>Garmin International</text>
+		</link>
+		<time>2009-10-17T22:58:43Z</time>
+	</metadata>
+	<trk>
+		<name>Walking up a hill.Straight up!</name>
+		<trkseg>
+			<trkpt lat=47.644548 lon=-122.326897>
+				<ele>4.46</ele>
+				<time>2009-10-17T18:37:26Z</time>
+			</trkpt>
+			<trkpt lat=47.644548 lon=-122.326897>
+				<ele>4.46</ele>
+				<time>2009-10-17T18:37:31Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
+
+<gpx>
+	<trk>
+		<name>Walking up a hill.Straight up!</name>
+		<trkseg>
+			<trkpt lat=47.644548 lon=-122.326897>
+				<ele>4.46</ele>
+				<time>2009-10-17T18:37:26Z</time>
+			</trkpt>
+			<trkpt lat=47.644548 lon=-122.326897>
+				<ele>4.46</ele>
+				<time>2009-10-17T18:37:31Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
+
+<gpx>
+	<metadata>
+		<link href=http://www.garmin.com>
+			<text>Garmin International</text>
+		</link>
+		<time>2009-10-17T22:58:43Z</time>
+	</metadata>
+	<trk>
+		<name>Walking up a hill.Straight up!</name>
+	</trk>
+</gpx>
+
+<gpx>
+	<trk>
+		<name>Walking up a hill.Straight up!</name>
+	</trk>
+</gpx>
+
+]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="4" failures="5" hostname="lenovo-PC" id="11" name="GPXparserTest" package="" tests="10" time="0.172" timestamp="2011-10-09T01:43:25">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+
+          <property name="reports.html.dir" value="reports/junit-html" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="test.failed" value="true" />
+
+          <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+
+          <property name="java.runtime.version" value="1.6.0_27-b07" />
+
+          <property name="cobertura.dir" value="./" />
+
+          <property name="user.name" value="lenovo" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+
+          <property name="reports.dir" value="reports" />
+
+          <property name="ant.project.default-target" value="coverage" />
+
+          <property name="ant.project.name" value="cobertura.examples.basic" />
+
+          <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="java.version" value="1.6.0_27" />
+
+          <property name="coverage.html.dir" value="reports/cobertura-html" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="classes" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre6" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="ant.file.type.cobertura.examples.basic" value="file" />
+
+          <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="20.2-b06" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+
+          <property name="reports.xml.dir" value="reports/junit-xml" />
+
+          <property name="user.home" value="C:\Users\lenovo" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXparserTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXparserTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher692674426943721493.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit920015493355149595.properties" />
+
+          <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="instrumented.dir" value="instrumented" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="src.dir" value="src" />
+
+          <property name="ant.project.invoked-targets" value="coverage" />
+
+      </properties>
+
+      <testcase classname="GPXparserTest" name="test0" time="0.031" />
+
+      <testcase classname="GPXparserTest" name="test1" time="0.016">
+          <failure message="expected:&lt;-122.326897&gt; but was:&lt;122.326897&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;-122.326897&gt; but was:&lt;122.326897&gt;
+	at GPXparserTest.test1(GPXparserTest.java:70)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXparserTest" name="test2" time="0.0">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXparserTest.test2(GPXparserTest.java:81)
+</error>
+
+      </testcase>
+
+      <testcase classname="GPXparserTest" name="test3" time="0.0">
+          <failure message="expected:&lt;GPXtrk@[df8ff1]&gt; but was:&lt;GPXtrk@[1632c2d]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;GPXtrk@[df8ff1]&gt; but was:&lt;GPXtrk@[1632c2d]&gt;
+	at GPXparserTest.test3(GPXparserTest.java:105)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXparserTest" name="test4" time="0.0">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXparserTest.test4(GPXparserTest.java:130)
+</error>
+
+      </testcase>
+
+      <testcase classname="GPXparserTest" name="test5" time="0.0">
+          <failure message="expected:&lt;GPXmetadata@1d4c61c&gt; but was:&lt;GPXmetadata@1a626f&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;GPXmetadata@1d4c61c&gt; but was:&lt;GPXmetadata@1a626f&gt;
+	at GPXparserTest.test5(GPXparserTest.java:155)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXparserTest" name="test6" time="0.016">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXobject.toString(GPXobject.java:38)
+	at GPXparserTest.test6(GPXparserTest.java:179)
+</error>
+
+      </testcase>
+
+      <testcase classname="GPXparserTest" name="test7" time="0.0">
+          <failure message="expected:&lt;GPXtrk@1[16471f]&gt; but was:&lt;GPXtrk@1[975b59]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;GPXtrk@1[16471f]&gt; but was:&lt;GPXtrk@1[975b59]&gt;
+	at GPXparserTest.test7(GPXparserTest.java:207)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXparserTest" name="test8" time="0.0">
+          <failure message="expected:&lt;null&gt; but was:&lt;GPXmetadata@e5855a&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;null&gt; but was:&lt;GPXmetadata@e5855a&gt;
+	at GPXparserTest.test8(GPXparserTest.java:227)
+</failure>
+
+      </testcase>
+
+      <testcase classname="GPXparserTest" name="test9" time="0.0">
+          <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXparserTest.test9(GPXparserTest.java:247)
+</error>
+
+      </testcase>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[java.lang.Exception: Format error! Expected </name> tag
+	at GPXchecker.checkFormat(GPXchecker.java:91)
+	at GPXparserTest.test0(GPXparserTest.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </name> tag
+	at GPXchecker.checkFormat(GPXchecker.java:91)
+	at GPXparserTest.test2(GPXparserTest.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.lang.Exception: Format error! Expected </text> tag
+	at GPXchecker.checkFormat(GPXchecker.java:73)
+	at GPXparserTest.test4(GPXparserTest.java:129)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+java.io.FileNotFoundException: D:\blablabla (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.util.Scanner.<init>(Unknown Source)
+	at GPXchecker.checkFormat(GPXchecker.java:29)
+	at GPXparserTest.test9(GPXparserTest.java:246)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:39)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:518)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1052)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:906)
+]]></system-err>
+
+  </testsuite>
+</testsuites>

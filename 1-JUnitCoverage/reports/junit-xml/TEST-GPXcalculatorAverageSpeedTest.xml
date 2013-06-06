@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="2" hostname="lenovo-PC" name="GPXcalculatorAverageSpeedTest" tests="5" time="0.141" timestamp="2011-10-09T01:43:15">
+  <properties>
+    <property name="java.vendor" value="Sun Microsystems Inc." />
+    <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/templates/" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="os.name" value="Windows 7" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar;C:\Program Files\Java\jre6\classes" />
+    <property name="reports.html.dir" value="reports/junit-html" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="test.failed" value="true" />
+    <property name="ant.home" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300" />
+    <property name="java.runtime.version" value="1.6.0_27-b07" />
+    <property name="cobertura.dir" value="./" />
+    <property name="user.name" value="lenovo" />
+    <property name="user.language" value="zh" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin" />
+    <property name="reports.dir" value="reports" />
+    <property name="ant.project.default-target" value="coverage" />
+    <property name="ant.project.name" value="cobertura.examples.basic" />
+    <property name="ant.file.cobertura.examples.basic" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+    <property name="java.version" value="1.6.0_27" />
+    <property name="coverage.html.dir" value="reports/cobertura-html" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+    <property name="sun.jnu.encoding" value="GBK" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="classes.dir" value="classes" />
+    <property name="java.class.version" value="50.0" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="C:\Program Files\Java\jre6" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="ant.file.type.cobertura.examples.basic" value="file" />
+    <property name="ant.file" value="F:\Eclipse\workspace\Copy of GPX_xu\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="20.2-b06" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="eclipse.pdebuild.scripts" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/scripts/" />
+    <property name="reports.xml.dir" value="reports/junit-xml" />
+    <property name="user.home" value="C:\Users\lenovo" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+    <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files\ati technologies\ati.ace\core-static;c:\program files\lenovo\bluetooth software\;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\common files\thunder network\kankan\codecs;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.00\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;F:\matlab2011\runtime\win32;F:\matlab2011\bin;D:\Java\jdk1.6.0_10\bin;D:\ssh;F:\Eclipse\eclipse;;." />
+    <property name="java.vendor.url" value="http://java.sun.com/" />
+    <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GPXcalculatorAverageSpeedTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\Eclipse\workspace\Copy of GPX_xu\reports\junit-xml\TEST-GPXcalculatorAverageSpeedTest.xml crashfile=F:\Eclipse\workspace\Copy of GPX_xu\junitvmwatcher6506549574051396993.properties propsfile=F:\Eclipse\workspace\Copy of GPX_xu\junit964640591083762856.properties" />
+    <property name="java.class.path" value="F:\Eclipse\workspace\Copy of GPX_xu\instrumented;F:\Eclipse\workspace\Copy of GPX_xu\classes;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\asm-tree-3.0.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\cobertura.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\jakarta-oro-2.0.8.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\junit.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\log4j-1.2.9.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core.source_1.1.0.v20090501071000.jar;F:\Eclipse\workspace\Copy of GPX_xu\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-launcher.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit.jar;F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="eclipse.pdebuild.home" value="/F:/Eclipse/eclipse/plugins/org.eclipse.pde.build_3.7.0.v20110512-1320/./" />
+    <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+    <property name="os.arch" value="x86" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="instrumented.dir" value="instrumented" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="basedir" value="F:\Eclipse\workspace\Copy of GPX_xu" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="ant.core.lib" value="F:\Eclipse\eclipse\plugins\org.apache.ant_1.8.2.v20110505-1300\lib\ant.jar" />
+    <property name="file.encoding" value="GBK" />
+    <property name="java.specification.version" value="1.6" />
+    <property name="src.dir" value="src" />
+    <property name="ant.project.invoked-targets" value="coverage" />
+  </properties>
+  <testcase classname="GPXcalculatorAverageSpeedTest" name="testCalculateAverageSpeed" time="0.016" />
+  <testcase classname="GPXcalculatorAverageSpeedTest" name="testAverage1" time="0.015">
+    <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at GPXcalculator.calculateDistanceTraveled(GPXcalculator.java:121)
+	at GPXcalculator.calculateAverageSpeed(GPXcalculator.java:146)
+	at GPXcalculatorAverageSpeedTest.testAverage1(GPXcalculatorAverageSpeedTest.java:47)
+</error>
+  </testcase>
+  <testcase classname="GPXcalculatorAverageSpeedTest" name="testAverage2" time="0.0">
+    <failure message="expected:&lt;0.0&gt; but was:&lt;NaN&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;0.0&gt; but was:&lt;NaN&gt;
+	at GPXcalculatorAverageSpeedTest.testAverage2(GPXcalculatorAverageSpeedTest.java:67)
+</failure>
+  </testcase>
+  <testcase classname="GPXcalculatorAverageSpeedTest" name="testAverage3" time="0.0" />
+  <testcase classname="GPXcalculatorAverageSpeedTest" name="testAverage4" time="0.0">
+    <failure message="expected:&lt;2.0&gt; but was:&lt;-2.167908756752936&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;2.0&gt; but was:&lt;-2.167908756752936&gt;
+	at GPXcalculatorAverageSpeedTest.testAverage4(GPXcalculatorAverageSpeedTest.java:116)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

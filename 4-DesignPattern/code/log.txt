@@ -1,0 +1,120 @@
+1323641499260 (DataStore): populating ArrayList
+1323641499368 (UserInterface): Starting application
+1323647426101 (UserInterface): User input: 1
+1323647428586 (UserInterface): Trying to search for year: 1999
+1323647428588 (DataProcessor): showing data for year: 1999
+1323647428589 (DataProcessor): getting data for year: 1999
+1323647428640 (UserInterface): User input: 
+1323652525876 (DataStore): populating ArrayList
+1323652526444 (UserInterface): Starting application
+1323652532338 (UserInterface): User input: 1
+1323652534301 (UserInterface): Trying to search for year: 1999
+1323652534302 (DataProcessor): showing data for year: 1999
+1323652534303 (DataProcessor): getting data for year: 1999
+1323652534306 (UserInterface): User input: 
+1323652539204 (UserInterface): User input: 2
+1323652547661 (UserInterface): Trying to search for: team=New York Yankee, which=W
+1323652547674 (DataProcessor): showing wins for team: New York Yankee
+1323652547675 (DataStore): Looking in cache for key: New York Yankee-wins
+1323652557031 (UserInterface): User input: 2
+1323652566087 (UserInterface): Trying to search for: team=New York Yankee , which=A
+1323652566088 (DataProcessor): showing wins and losses for team: New York Yankee 
+1323652566088 (DataStore): Looking in cache for key: New York Yankee -all
+1323652566089 (DataProcessor): showing wins for team: New York Yankee 
+1323652566090 (DataStore): Looking in cache for key: New York Yankee -wins
+1323652566092 (DataProcessor): showing losses for team: New York Yankee 
+1323652566093 (DataStore): Looking in cache for key: New York Yankee -losses
+1323652610316 (DataStore): populating ArrayList
+1323652610545 (UserInterface): Starting application
+1323652613275 (UserInterface): User input: 2
+1323652618371 (UserInterface): Trying to search for: team=New York Yankee, which=A
+1323652618373 (DataProcessor): showing wins and losses for team: New York Yankee
+1323652618374 (DataStore): Looking in cache for key: New York Yankee-all
+1323652618375 (DataProcessor): showing wins for team: New York Yankee
+1323652618376 (DataStore): Looking in cache for key: New York Yankee-wins
+1323652618382 (DataProcessor): showing losses for team: New York Yankee
+1323652618383 (DataStore): Looking in cache for key: New York Yankee-losses
+1323653110541 (DataStore): populating ArrayList
+1323653110700 (UserInterface): Starting application
+1323653114957 (UserInterface): User input: 2
+1323653120370 (UserInterface): Trying to search for: team=New York Yankee, which=A
+1323653120371 (DataProcessor): showing wins and losses for team: New York Yankee
+1323653120372 (DataStore): Looking in cache for key: New York Yankee-all
+1323653120373 (DataProcessor): showing wins for team: New York Yankee
+1323653120374 (DataStore): Looking in cache for key: New York Yankee-wins
+1323653120380 (DataProcessor): showing losses for team: New York Yankee
+1323653120381 (DataStore): Looking in cache for key: New York Yankee-losses
+1323653125120 (UserInterface): User input: 3
+1323653127040 (UserInterface): Trying to search for range starting with: 1999
+1323653128539 (UserInterface): Trying to search for range starting with: 2000
+1323653128539 (DataProcessor): showing data for range: 1999 to 2000
+1323653128555 (DataStore): Looking in cache for key: 1999-2000
+1323653128555 (DataProcessor): getting data for year: 1999
+1323653128555 (DataProcessor): getting data for year: 2000
+1323653128555 (UserInterface): User input: 
+1323653140389 (UserInterface): User input: 4
+1323653140390 (UserInterface): Trying to assemble winners by team
+1323653140457 (DataProcessor): Trying to display all teams
+1323654064223 (DataStore): populating ArrayList
+1323654064399 (UserInterface): Starting application
+1323654066754 (UserInterface): User input: 1
+1323654068354 (UserInterface): Trying to search for year: 1999
+1323654068357 (DataProcessor): showing data for year: 1999
+1323654068359 (DataProcessor): getting data for year: 1999
+1323654068363 (UserInterface): User input: 
+1323655778267 (DataStore): populating ArrayList
+1323655778485 (UserInterface): Starting application
+1323655794657 (UserInterface): User input: 4
+1323655794658 (UserInterface): Trying to assemble winners by team
+1323655794667 (DataProcessor): Trying to display all teams
+1323656063441 (UserInterface): User input: 1
+1323656064947 (DataStore): populating ArrayList
+1323656065127 (UserInterface): Starting application
+1323656065128 (UserInterface): User input: 99
+1323656073198 (UserInterface): User input: 4
+1323656073198 (UserInterface): Trying to assemble winners by team
+1323656073213 (DataProcessor): Trying to display all teams
+1323656211500 (DataStore): populating ArrayList
+1323656211620 (UserInterface): Starting application
+1323656213639 (UserInterface): User input: 4
+1323656213641 (UserInterface): Trying to assemble winners by team
+1323656213652 (DataProcessor): Trying to display all teams
+1323658662790 (DataStore): populating ArrayList
+1323658662945 (UserInterface): Starting application
+1323658667267 (UserInterface): User input: 4
+1323658667269 (UserInterface): Trying to assemble winners by team
+1323658667277 (DataProcessor): Trying to display all teams
+1323658688242 (DataStore): populating ArrayList
+1323658688429 (UserInterface): Starting application
+1323658715355 (UserInterface): User input:  System.out.println("1")
+1323658720037 (UserInterface): User input:  System.out.println
+1323659696995 (DataStore): populating ArrayList
+1323659697396 (UserInterface): Starting application
+1323659699326 (UserInterface): User input: 4
+1323659699326 (UserInterface): Trying to assemble winners by team
+1323659699342 (DataProcessor): Trying to display all teams
+1323659704134 (UserInterface): User input: 2
+1323659712521 (UserInterface): Trying to search for: team=New York Yankee, which=W
+1323659712528 (DataProcessor): showing wins for team: New York Yankee
+1323659712529 (DataStore): Looking in cache for key: New York Yankee-wins
+1323659863671 (UserInterface): User input: 4
+1323659863672 (UserInterface): Trying to assemble winners by team
+1323659863674 (DataProcessor): Trying to display all teams
+1323659868926 (UserInterface): User input: 2
+1323659875206 (UserInterface): Trying to search for: team=New York Yankee, which=a
+1323659875206 (DataProcessor): showing wins and losses for team: New York Yankee
+1323659875206 (DataStore): Looking in cache for key: New York Yankee-all
+1323659875206 (DataProcessor): showing wins for team: New York Yankee
+1323659875206 (DataStore): Looking in cache for key: New York Yankee-wins
+1323659875206 (DataProcessor): showing losses for team: New York Yankee
+1323659875206 (DataStore): Looking in cache for key: New York Yankee-losses
+1323662059514 (DataStore): populating ArrayList
+1323662059705 (UserInterface): Starting application
+1323662061179 (UserInterface): User input: 4
+1323662061180 (UserInterface): Trying to assemble winners by team
+1323662061189 (DataProcessor): Trying to display all teams
+1323662112253 (DataStore): populating ArrayList
+1323662112472 (UserInterface): Starting application
+1323662114419 (UserInterface): User input: 4
+1323662114420 (UserInterface): Trying to assemble winners by team
+1323662114428 (DataProcessor): Trying to display all teams
