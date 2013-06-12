@@ -9,6 +9,6 @@ Performed automated testing, fault localization, refactoring, and redesign for f
 
 ## _Contribution_
 * Created JUnit automated testing, Cobertura coverage measurement and muJava adequacy evaluation on "GPS Data System".
-* Performed debugging, fault localization, and regression testing using static/dynamic slice on "Airline Reservation System".
-* Enhanced the readability using 6 design concepts with complexity evaluation of Prest metrics on "Baseball Database System".
-* Improved the design pattern, abstraction, modularity and testability with Singleton, Factory Method, and Facade.
+* Performed debugging, fault localization, and regression testing  on "Airline Reservation System" using static/dynamic slice.
+* Enhanced the readability of "Baseball Database System" using six refactoring concepts and Prest complexity metrics.
+* Improved the abstraction, modularity and testability of using design patterns such as Singleton, Factory Method, and Facade.
